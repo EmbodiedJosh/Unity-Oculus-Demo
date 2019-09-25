@@ -1,4 +1,4 @@
-## Build Your First VR App Video Tutorial
+## "Build Your First VR App" Video Tutorial
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626464011193417730/oculsu-rift-unity-pro-1021x580.jpg)](https://youtu.be/tPHnLJ__Cd4)
 
@@ -12,9 +12,9 @@ The above video tutorial and subsequent text was created in approximately 6 hour
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Step 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I began by following the instructions listed 
 
 ```markdown
 Syntax highlighted code block
