@@ -42,3 +42,19 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 Move the ball up to hover above the plane by dragging up on the green arrow. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)
+
+5. If we hit "play", we'll see that the sphere hovers in the air. This is because it's immune to Unity's physics engine: we can't move it, and it can't be moved. Turn off the game by pressing "play" again. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626495984481861634/c2bfa3b78065305f8d5f69c3e61f37ff.png)](https://cdn.discordapp.com/attachments/626114024655945740/626495984481861634/c2bfa3b78065305f8d5f69c3e61f37ff.png)
+
+6. To bring it to life, we have to add a **RigidBody** component to our "player", in this case, the sphere. 
+
+* Click add component
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)
+
+* Type in "RigidBody" and select it. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)
+
+Now, if you press play again, you'll notice the ball drops to the ground.
