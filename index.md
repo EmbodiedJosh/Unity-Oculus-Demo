@@ -147,7 +147,7 @@ public int speed = 0;
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626550314035707932/a72934ac36a4d908ce3d126b88ab06ad.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550314035707932/a72934ac36a4d908ce3d126b88ab06ad.png)
 
-* **Click and drag out on the x (red) axis** to expand the cube into a rectangle. 
+* **Click and drag out on the X Axis (red)** to expand the cube into a rectangle. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)
 
@@ -155,9 +155,29 @@ public int speed = 0;
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626550313389654017/03d5ae084d41d647368b0bc91d7da704.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550313389654017/03d5ae084d41d647368b0bc91d7da704.png)
 
-* To better line up your rectange, **press alt + left mouse click** inside the viewport, to move the camera. This allows you to get views like this: 
+* To better line up your rectange, **press Alt + Left Mouse Click** inside the viewport, to move the camera. This allows you to get views like this: 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626550316451627008/7d62b3a0b8b92087af8fd5e78c6d8300.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550316451627008/7d62b3a0b8b92087af8fd5e78c6d8300.png)
+
+4. Great! You've now **Free Transformed** a rectangle in 3D space, and you're going to do it again. This time though, we're going to save some time. **Right click your cube and select "Duplicate"**. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626552071084179466/93e442acac55979285dedcc2d40ffbb9.png)](https://cdn.discordapp.com/attachments/626114024655945740/626552071084179466/93e442acac55979285dedcc2d40ffbb9.png)
+
+5. **Free Transform Cube (1)** to the opposite side of the plane by moving it along the Z Axis (blue) using the Move Tool (w).  
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626552616926707712/2be7ae9b7ee0dc42e815ad3f3023c5cd.png)](https://cdn.discordapp.com/attachments/626114024655945740/626552616926707712/2be7ae9b7ee0dc42e815ad3f3023c5cd.png)
+
+6. **Select both cubes, and duplicate them**. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626553482907746325/3faad105de59f47bf5dec1d5bb437a9d.png)](https://cdn.discordapp.com/attachments/626114024655945740/626553482907746325/3faad105de59f47bf5dec1d5bb437a9d.png)
+
+7. **Press E with Cube(2) and Cube(3) selected to use the Rotate Tool** 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626554339196010508/3d73f0e287eea45f4438ab902d31f897.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554339196010508/3d73f0e287eea45f4438ab902d31f897.png)
+
+* Rotate on the Y Axis (green) until they line up with the last two sides of the plane. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626554337228881930/eb0613c67e84847394c187b934e412ce.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554337228881930/eb0613c67e84847394c187b934e412ce.png)
 
 
 
