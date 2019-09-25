@@ -153,11 +153,11 @@ public int speed = 0;
 
 * **Press W** to activate the move tool, and move your rectangle along the z (blue) and y (green) axis to line it up to the edge of the plane. 
 
-[![](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626550313389654017/03d5ae084d41d647368b0bc91d7da704.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550313389654017/03d5ae084d41d647368b0bc91d7da704.png)
 
 * To better line up your rectange, **press alt + left mouse click** inside the viewport, to move the camera. This allows you to get views like this: 
 
-[![](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626550316451627008/7d62b3a0b8b92087af8fd5e78c6d8300.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550316451627008/7d62b3a0b8b92087af8fd5e78c6d8300.png)
 
 
 
