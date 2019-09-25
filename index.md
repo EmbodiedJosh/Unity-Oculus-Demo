@@ -199,14 +199,13 @@ public int speed = 0;
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626558182646611970/d8bfd0c167b6499651c21e0c7f1ef769.png)](https://cdn.discordapp.com/attachments/626114024655945740/626558182646611970/d8bfd0c167b6499651c21e0c7f1ef769.png)
 
-3. You need Open Vr to work: it's what tells your Oculus Rift to turn on and see the game you've just made. **The only way to turn on this check-box is if you have Steam VR installed**. To install Steam VR, simply open Steam with your Oculus fully operational and already set up. Steam will then say it detects a VR headset, and ask if you want to download Steam VR. Say yes. The graphic will look similar to this image: 
+3. You need Open VR in order to run your game: it's what tells your Oculus Rift to turn on and see the game you've just made. **The only way to turn on this check-box is if you have Steam VR installed**. To install Steam VR, simply open Steam with your Oculus fully operational and already set up. Steam will then say it detects a VR headset, and ask if you want to download Steam VR. Say yes. The graphic will look similar to this image: 
 
-[![](https://cdn.discordapp.com/attachments/626114024655945740/626558811754332162/add98f7710fc5243d3310e79a55a9dc47aeb1c22.png](https://cdn.discordapp.com/attachments/626114024655945740/626558811754332162/add98f7710fc5243d3310e79a55a9dc47aeb1c22.png)
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626558811754332162/add98f7710fc5243d3310e79a55a9dc47aeb1c22.png)](https://cdn.discordapp.com/attachments/626114024655945740/626558811754332162/add98f7710fc5243d3310e79a55a9dc47aeb1c22.png)
 
 * If you attempt to run your game without Steam VR, you will encounter this error: 
 
-[![](https://cdn.discordapp.com/attachments/626114024655945740/626559295466504223/5e34a56d7d24dd9b9b72228c981d0623.png](https://cdn.discordapp.com/attachments/626114024655945740/626559295466504223/5e34a56d7d24dd9b9b72228c981d0623.png)
-
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626559295466504223/5e34a56d7d24dd9b9b72228c981d0623.png)](https://cdn.discordapp.com/attachments/626114024655945740/626559295466504223/5e34a56d7d24dd9b9b72228c981d0623.png)
 * **To fix this error, you need simply install Steam VR.**
 
 
