@@ -84,5 +84,27 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
  
  [![](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)
 
+3. Next we're going to add a new function to move our Player (the sphere). 
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+public class PlayerController : MonoBehaviour {
+public int speed = 0;
+// Use this for initialization
+   void Start () {
+  }
+// Update is called once per frame
+   void Update () {
+// get input data from keyboard or controller
+     float moveHorizontal = Input.GetAxis("Horizontal");
+     float moveVertical = Input.GetAxis("Vertical");
+// update player position based on input
+      Vector3 position = transform.position;
+      position.x += moveHorizontal * speed * Time.deltaTime;
+      position.z += moveVertical * speed * Time.deltaTime;
+      transform.position = position;
+      }
+  }
 
 
