@@ -6,9 +6,9 @@
 
 The above video tutorial and subsequent text was created in approximately 6 hours, for the purpose of consolidating and converting multiple Unity+Oculus development documentation pages into a video tutorial with only one subsequent page of documentation. The following documentation details my process of:
 
--Creating my first VR app 
--The documentation I used to create it
--The problems I encountered (and overcame) along the way. 
+* Creating my first VR app 
+* The documentation I used to create it
+* The problems I encountered (and overcame) along the way. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
