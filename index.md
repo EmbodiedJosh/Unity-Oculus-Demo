@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Build Your First VR App Video Tutorial
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626464011193417730/oculsu-rift-unity-pro-1021x580.jpg)](https://youtu.be/tPHnLJ__Cd4)
 
 
 
-You can use the [editor on GitHub](https://github.com/EmbodiedJosh/UnityOculusDemo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The above video tutorial and subsequent text was created in approximately 6 hours, for the purpose of consolidating and converting multiple Unity+Oculus development documentation pages into a video tutorial with only one subsequent page of documentation. The following documentation details my process of:
+
+-Creating my first VR app 
+-The documentation I used to create it
+-The problems I encountered (and overcame) along the way. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
