@@ -63,7 +63,16 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 
 ### Step 3: Add a control script to your Player 
 
-1. Now we need to make our player be able to move and respond to input from our keyboard. We already started this process by adding RigidBody, but that's only half the battle. The second part of the equation is creating a **New Script**. Go to the same section as before, and click **add component** 
+1. Now we need to make our player be able to move and respond to input from our keyboard. We already started this process by adding RigidBody, but that's only half the battle. The second part of the equation is creating a **New Script**. 
+
+* Go to the same section as before, and click **add component** 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)
+
+* Type in "New Script" and select it. We're going to name it **PlayerController** and then click "Create and Add"
+
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626540888339775508/8.png)](https://cdn.discordapp.com/attachments/626114024655945740/626540888339775508/8.png)
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626541578327949336/9.png)](https://cdn.discordapp.com/attachments/626114024655945740/626541578327949336/9.png)
 
