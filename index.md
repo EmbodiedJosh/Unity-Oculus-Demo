@@ -182,7 +182,7 @@ public int speed = 0;
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626554796899303467/384b0c40daac7157623aa8ee1efc1978.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554796899303467/384b0c40daac7157623aa8ee1efc1978.png)
 
 
-9. But just because you can fly around in 3D space and see your enclosed Play Space, doesn't mean the Game Camera can. **Left Mouse CLick on the camera icon** and use Free Transform and the preview window to get a better playing angle. 
+9. But just because you can fly around in 3D space and see your enclosed Play Space, doesn't mean the Game Camera can. **Left Mouse Click on the camera icon** and use Free Transform and the preview window to get a better playing angle. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626556242416107551/12.png)](https://cdn.discordapp.com/attachments/626114024655945740/626556242416107551/12.png)
 
