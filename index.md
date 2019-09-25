@@ -6,8 +6,6 @@
 
 The above video tutorial and subsequent text was created for the purpose of consolidating and converting multiple Unity+Oculus development documentation pages into a video tutorial with only one subsequent page of documentation. The following is the technical writing documentation of how I would write "Tutorial: build your first VR app" for the Oculus Rift. 
 
-At the bottom is a summary of my experience follwing the existing documentation (and a list of the documentation I used), along with the problems I encountered (and overcame) along the way. 
-
 ### Build Your Simple Application 
 
 In this tutorial we're going to create a simple game comprised of moving a ball within a play area. We'll create some walls so the ball doesn't roll out of the play area, in addition to attaching a controller script so we can move the ball around with our keyboard. At the end, we'll enable VR support so we can play our creation on Rift. 
@@ -209,5 +207,8 @@ public int speed = 0;
 * **To fix this error, you need simply install Steam VR.**
 
 
+### That's it! 
+
+Congratulations on making your first VR application. I can't wait to see what you make next! 
 
 
