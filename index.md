@@ -19,6 +19,7 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626476627001475072/84dae01801cd0ac8aa88caf657190e07.png)](https://www.oculus.com/setup/)
 
-### Step 2
+### Step 2: Build a Play Area and Add a Player 
 
-The following steps outlined in the documentation was straight forward
+1. Launch Unity Hub, and create "new". Once there, select 3D, and give it a name. We'll call it VR Game. 
+[![]([![](https://cdn.discordapp.com/attachments/626114024655945740/626476627001475072/84dae01801cd0ac8aa88caf657190e07.png)]
