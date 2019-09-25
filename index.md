@@ -61,4 +61,4 @@ Now, if you press play again, you'll notice the ball drops to the ground.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626500120459870211/Sequence_01.gif)](https://cdn.discordapp.com/attachments/626114024655945740/626500120459870211/Sequence_01.gif)
 
-![Alt Text](https://cdn.discordapp.com/attachments/626114024655945740/626500120459870211/Sequence_01.gif)
+![Alt Text](https://cdn.discordapp.com/attachments/626114024655945740/626501086123130880/Sequence_01_1.gif)
