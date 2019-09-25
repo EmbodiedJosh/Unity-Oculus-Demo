@@ -82,7 +82,7 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 
  * You should see this screen (if yours isn't black, that's okay: mine only appears that way because I selected the dark theme for Visual Studio)
  
- [![](https://gyazo.com/76d69e3ea4133dff5ec8fcef1f04b13a)](https://gyazo.com/76d69e3ea4133dff5ec8fcef1f04b13a)
+ [![](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)
 
 
 
