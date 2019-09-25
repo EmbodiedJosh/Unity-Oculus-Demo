@@ -122,7 +122,7 @@ public int speed = 0;
   
   ```
 
-* **Your final code in Visual Studio should look like this: 
+* **Your final code in Visual Studio should look like this:** 
 
  [![](https://cdn.discordapp.com/attachments/626114024655945740/626545019020378113/182806c6f89e63c63947e05b89c23a9e.png)](https://cdn.discordapp.com/attachments/626114024655945740/626545019020378113/182806c6f89e63c63947e05b89c23a9e.png)
  
