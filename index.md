@@ -33,7 +33,13 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 
 ![](https://cdn.discordapp.com/attachments/626114024655945740/626489828032118784/e13156e016600ba1baea8137c4dc4b87.png)
 
-4. If you notice, there's an array of arrows at the center of your sphere. This array changes depending on what tool is currently being highlighted. These tools are located towards the top, and have corresponding keyboard shortcuts. **W = Move Tool, E = Rotate Tool, R = Scale Tool**. Move the ball up to hover above the plane by dragging up on the green arrow. 
+4. If you notice, there's an array of arrows at the center of your sphere. This array changes depending on what tool is currently being highlighted. These tools are located towards the top, and have corresponding keyboard shortcuts. 
+
+* **W = Move Tool, 
+* **E = Rotate Tool, 
+* **R = Scale Tool**. 
+
+Move the ball up to hover above the plane by dragging up on the green arrow. 
 
 ![](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)
 
