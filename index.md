@@ -39,7 +39,7 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 * **E = Rotate Tool** 
 * **R = Scale Tool** 
 
-Move the ball up to hover above the plane by dragging up on the green arrow. 
+Move the ball up to hover above the plane by **dragging up on the green arrow. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)
 
@@ -53,7 +53,7 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)
 
-* Type in "RigidBody" and select it. Now, if you press play again, you'll notice the ball drops to the ground.
+* Type in "RigidBody" and select it. Now, if you press play again, you'll notice the **ball drops to the ground.
 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)
@@ -76,11 +76,11 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626541578327949336/9.png)](https://cdn.discordapp.com/attachments/626114024655945740/626541578327949336/9.png)
 
-2. Your new script will appear in your Assets Folder, right next to "Scenes". Double click it to open it with the text editor Visual Studio, which is the standard text editor that's installed with Unity. 
+2. Your new script will appear in your Assets Folder, right next to "Scenes". **Double click it to open it with the text editor Visual Studio**, which is the standard text editor that's installed with Unity. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626542214381699082/10.png)](https://cdn.discordapp.com/attachments/626114024655945740/626542214381699082/10.png)
 
- * You should see this screen, with this starting code (if yours isn't black, that's okay: mine only appears that way because I selected the dark theme for Visual Studio).
+ * You should see this screen, **with this starting code** (if yours isn't black, that's okay: mine only appears that way because I selected the dark theme for Visual Studio).
  
  ```
  using System.Collections;
@@ -98,7 +98,7 @@ public class temp : MonoBehaviour {
  
  [![](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)
 
-3. Next we're going to add a new function to move our Player (the sphere). Copy and paste this in its entirety into Visual Studio (beginner) or enter in the function manually (advanced). 
+3. Next we're going to **add a new function** to move our Player (the sphere). Copy and paste this in its entirety into Visual Studio (beginner) or enter in the function manually (advanced). 
 
 ```
 using System.Collections;
@@ -124,7 +124,7 @@ public int speed = 0;
   
   ```
 
-* Your final code in Visual Studio should look like this: 
+* **Your final code in Visual Studio should look like this: 
 
  [![](https://cdn.discordapp.com/attachments/626114024655945740/626545019020378113/182806c6f89e63c63947e05b89c23a9e.png)](https://cdn.discordapp.com/attachments/626114024655945740/626545019020378113/182806c6f89e63c63947e05b89c23a9e.png)
  
@@ -135,7 +135,7 @@ public int speed = 0;
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)
 
-2. Click on your "sphere" in the Hierarchy and notice you now have a "speed" section under the Inspector tab. It is currently set to "0". That's why you're not moving. Set that a reasonable number (3), hit play again, and finally be able to move your Player using W-A-S-D. 
+2. Click on your "sphere" in the Hierarchy and notice you now have a "speed" section under the Inspector tab. It is currently set to "0". That's why you're not moving. **Set that a reasonable number (3)**, hit play again, and finally be able to move your Player using W-A-S-D. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626547334150488087/11.png)](https://cdn.discordapp.com/attachments/626114024655945740/626547334150488087/11.png)
 
