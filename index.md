@@ -10,9 +10,9 @@ At the bottom is a summary of my experience follwing the existing documentation 
 
 ### Step 1
 
-Before you can make a game for Oculus in Unity, you need to ensure your Oculus is set up properly. Follow the instructions at [Oculus.com/setup](https://www.oculus.com/setup/) to get your Oculus running in working order. Once this is completed, be sure that you're using Unity 5 ([check compatibility and version requirements](https://developer.oculus.com/documentation/unity/latest/concepts/unity-req/))
+Before you can make a game for Oculus in Unity, you need to ensure your Oculus is set up properly. Follow the instructions at [Oculus.com/setup](https://www.oculus.com/setup/) to get your Oculus running in working order. Once this is completed, be sure that you're using Unity 5 to create your VR Game([you can check compatibility and version requirements and reccomendations here](https://developer.oculus.com/documentation/unity/latest/concepts/unity-req/))
 
-![](https://cdn.discordapp.com/attachments/626114024655945740/626471362185396244/2.png)
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626476627001475072/84dae01801cd0ac8aa88caf657190e07.png)](https://www.oculus.com/setup/)
 
 ### Step 2
 
