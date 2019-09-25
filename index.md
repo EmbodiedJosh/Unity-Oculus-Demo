@@ -19,7 +19,7 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 
 ### Step 2: Build a Play Area and Add a Player 
 
-1. Launch Unity Hub, and create "new". Once there, select 3D, and give it a name. We'll call it VR Game. 
+1. Launch Unity Hub, and create "new". Once there, select 3D, and give it a name. We'll call it VR_Game. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)](https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)
 
@@ -45,9 +45,9 @@ Move the ball up to hover above the plane by **dragging up on the green arrow.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626495984481861634/c2bfa3b78065305f8d5f69c3e61f37ff.png)](https://cdn.discordapp.com/attachments/626114024655945740/626495984481861634/c2bfa3b78065305f8d5f69c3e61f37ff.png)
 
-6. To bring it to life, we have to add a **RigidBody** component to our "player", in this case, the sphere. 
+6. To bring it to life, we have to add a **RigidBody** component to our "Player", in this case, the sphere. 
 
-* Click **add component**
+* Click **Add Component**
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)
 
@@ -63,7 +63,7 @@ Move the ball up to hover above the plane by **dragging up on the green arrow.
 
 1. Now we need to make our player be able to move and respond to input from our keyboard. We already started this process by adding RigidBody, but that's only half the battle. The second part of the equation is creating a **New Script**. 
 
-* Go to the same section as before, and click **add component** 
+* Go to the same section as before, and click **Add Component** 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)
 
