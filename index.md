@@ -181,7 +181,7 @@ public int speed = 0;
 
 8. **Rotate the View Port** using Alt + Left Mouse Click to get a better view and look at your enclosed Play Space! 
 
-[![](https://cdn.discordapp.com/attachments/626114024655945740/626555668094124042/de9af38bb80595bae38fbed420d1df4b.png)](https://cdn.discordapp.com/attachments/626114024655945740/626555668094124042/de9af38bb80595bae38fbed420d1df4b.png)
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626554796899303467/384b0c40daac7157623aa8ee1efc1978.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554796899303467/384b0c40daac7157623aa8ee1efc1978.png)
 
 
 9. But just because you can fly around in 3D space and see your enclosed Play Space, doesn't mean the Game Camera can. **Left Mouse CLick on the camera icon** and use Free Transform and the preview window to get a better playing angle. 
