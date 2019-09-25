@@ -12,6 +12,7 @@ At the bottom is a summary of my experience follwing the existing documentation 
 
 In this tutorial we're going to create a simple game comprised of moving a ball within a play area. We'll create some walls so the ball doesn't roll out of the play area, in addition to attaching a controller script so we can move the ball around with our keyboard. At the end, we'll enable VR support so we can play our creation on Rift. 
 
+
 ### Step 1: Set Up Your Rift
 
 Before you can make a game for Rift in Unity, you need to ensure your Rift is set up properly. Follow the instructions at [Oculus.com/setup](https://www.oculus.com/setup/) to get your Rift running in working order. Once this is completed, be sure that you're using Unity 5 to create your VR Game ([you can check compatibility and version requirements and recommendations  here](https://developer.oculus.com/documentation/unity/latest/concepts/unity-req/)).
