@@ -12,34 +12,10 @@ The above video tutorial and subsequent text was created in approximately 6 hour
 
 ### Step 1
 
-I began by following the instructions listed in the original ["Tutorial: Build Your First VR App"](https://developer.oculus.com/documentation/unity/latest/concepts/unity-tutorial/?locale=en_US) documentation, and followed the first step of [Preparing for Rift Development](https://developer.oculus.com/documentation/unity/latest/concepts/unity-pcprep/) by setting up my Rift to play normally, as if I were only using it for gaming. 
+I began by following the instructions listed in the original ["Tutorial: Build Your First VR App"](https://developer.oculus.com/documentation/unity/latest/concepts/unity-tutorial/?locale=en_US) documentation, and followed the first step of [Preparing for Rift Development](https://developer.oculus.com/documentation/unity/latest/concepts/unity-pcprep/) by setting up my Rift to play normally, as if I were only using it for gaming, by following the instructions at [Oculus.com/setup](https://www.oculus.com/setup/) 
 
 ![](https://cdn.discordapp.com/attachments/626114024655945740/626471362185396244/2.png)
 
-```markdown
-Syntax highlighted code block
+### Step 2
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmbodiedJosh/UnityOculusDemo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The following steps outlined in the documentation was straight forward
