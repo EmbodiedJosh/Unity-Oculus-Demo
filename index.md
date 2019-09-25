@@ -60,3 +60,5 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 Now, if you press play again, you'll notice the ball drops to the ground.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626500120459870211/Sequence_01.gif)](https://cdn.discordapp.com/attachments/626114024655945740/626500120459870211/Sequence_01.gif)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
