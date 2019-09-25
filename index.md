@@ -12,7 +12,7 @@ The above video tutorial and subsequent text was created in approximately 6 hour
 
 ### Step 1
 
-I began by following the instructions listed in the original ["Tutorial: Build Your First VR App"](https://developer.oculus.com/documentation/unity/latest/concepts/unity-tutorial/?locale=en_US) documentation, and followed the first step of [Preparing for Rift Development](https://developer.oculus.com/documentation/unity/latest/concepts/unity-pcprep/)  
+I began by following the instructions listed in the original ["Tutorial: Build Your First VR App"](https://developer.oculus.com/documentation/unity/latest/concepts/unity-tutorial/?locale=en_US) documentation, and followed the first step of [Preparing for Rift Development](https://developer.oculus.com/documentation/unity/latest/concepts/unity-pcprep/) by setting up my Rift to play normally, as if I were only using it for gaming. 
 
 ![](https://cdn.discordapp.com/attachments/626114024655945740/626470192700063764/2.png)
 
