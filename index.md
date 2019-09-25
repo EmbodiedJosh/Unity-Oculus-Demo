@@ -23,15 +23,15 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 
 1. Launch Unity Hub, and create "new". Once there, select 3D, and give it a name. We'll call it VR Game. 
 
-![](https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)(https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)
+![](https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)
 
 2. First things first, we need to create a floor. Go to **Game Objects > 3D Object > Plane** 
 
-![](https://cdn.discordapp.com/attachments/626114024655945740/626488372906688516/fa05fe00e824d2e3f5cd86845238c2cd.png)(https://cdn.discordapp.com/attachments/626114024655945740/626488372906688516/fa05fe00e824d2e3f5cd86845238c2cd.png)
+![](https://cdn.discordapp.com/attachments/626114024655945740/626488372906688516/fa05fe00e824d2e3f5cd86845238c2cd.png)
 
 3. Then, do the same thing, but this time add a **sphere**. **Game Objects > 3D Object > Sphere** 
 
-![](https://cdn.discordapp.com/attachments/626114024655945740/626489828032118784/e13156e016600ba1baea8137c4dc4b87.png)(https://cdn.discordapp.com/attachments/626114024655945740/626489828032118784/e13156e016600ba1baea8137c4dc4b87.png)
+![](https://cdn.discordapp.com/attachments/626114024655945740/626489828032118784/e13156e016600ba1baea8137c4dc4b87.png)
 
 4. If you notice, there's an array of arrows at the center of your sphere. This array changes depending on what tool is currently being highlighted. These tools are located towards the top, and have corresponding keyboard shortcuts. 
 
@@ -41,5 +41,5 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 
 Move the ball up to hover above the plane by dragging up on the green arrow. 
 
-![](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)(https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)
+![](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)
 
