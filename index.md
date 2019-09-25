@@ -53,10 +53,11 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830617350144/5.png)
 
-* Type in "RigidBody" and select it. 
+* Type in "RigidBody" and select it. Now, if you press play again, you'll notice the ball drops to the ground.
+
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)
 
-Now, if you press play again, you'll notice the ball drops to the ground.
 
-![Alt Text](https://cdn.discordapp.com/attachments/626114024655945740/626501360602578956/Sequence_01_2.gif)
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626501747103367179/e4e435b64b648f39c1acffb5064173da.png)](https://cdn.discordapp.com/attachments/626114024655945740/626501747103367179/e4e435b64b648f39c1acffb5064173da.png)
+
