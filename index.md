@@ -4,11 +4,9 @@
 
 
 
-The above video tutorial and subsequent text was created in approximately 6 hours, for the purpose of consolidating and converting multiple Unity+Oculus development documentation pages into a video tutorial with only one subsequent page of documentation. The following is the technical writing documentation of how I would write how to "build your first VR app". At the bottom is a summary of my experience follwing the existing documentations and the problems I encountered (and overcame) along the way. 
+The above video tutorial and subsequent text was created in approximately 6 hours, for the purpose of consolidating and converting multiple Unity+Oculus development documentation pages into a video tutorial with only one subsequent page of documentation. The following is the technical writing documentation of how I would write "Tutorial: build your first VR app". 
 
-* Creating my first VR app 
-* The documentation I used to create it
-* The problems I encountered (and overcame) along the way. 
+At the bottom is a summary of my experience follwing the existing documentations and the problems I encountered (and overcame) along the way. 
 
 ### Step 1
 
