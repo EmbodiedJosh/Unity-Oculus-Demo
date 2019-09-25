@@ -31,5 +31,5 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 
 3. Then, do the same thing, but this time add a **sphere**. **Game Objects > 3D Object > Sphere** 
 
-![](https://cdn.discordapp.com/attachments/626114024655945740/626489436414279691/e13156e016600ba1baea8137c4dc4b87.png)
+![](https://cdn.discordapp.com/attachments/626114024655945740/626489828032118784/e13156e016600ba1baea8137c4dc4b87.png)
 
