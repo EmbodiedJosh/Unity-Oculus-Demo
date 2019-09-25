@@ -76,3 +76,9 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626541578327949336/9.png)](https://cdn.discordapp.com/attachments/626114024655945740/626541578327949336/9.png)
 
+2. Your new script will appear in your Assets Folder, right next to "Scenes". Double click it to open it with the text editor Visual Studio, which is the standard text editor that's installed with Unity. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626542214381699082/10.png)](https://cdn.discordapp.com/attachments/626114024655945740/626542214381699082/10.png)
+
+
+
