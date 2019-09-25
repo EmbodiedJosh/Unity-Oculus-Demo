@@ -139,3 +139,25 @@ public int speed = 0;
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626547334150488087/11.png)](https://cdn.discordapp.com/attachments/626114024655945740/626547334150488087/11.png)
 
+3. As you may have noticed, you now have the power to run your Player off the edge of the plane. To fix this, we're going to add borders along the edge so we don't fall off. Go to **Game Object > 3D Object > Cube** 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626549443092676619/114f1bf426ae524689935170e35ca113.png)](https://cdn.discordapp.com/attachments/626114024655945740/626549443092676619/114f1bf426ae524689935170e35ca113.png)
+
+* **Press R** to activate the scale tool. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626550314035707932/a72934ac36a4d908ce3d126b88ab06ad.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550314035707932/a72934ac36a4d908ce3d126b88ab06ad.png)
+
+* **Click and drag out on the x (red) axis** to expand the cube into a rectangle. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)
+
+* **Press W** to activate the move tool, and move your rectangle along the z (blue) and y (green) axis to line it up to the edge of the plane. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)
+
+* To better line up your rectange, **press alt + left mouse click** inside the viewport, to move the camera. This allows you to get views like this: 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)](https://cdn.discordapp.com/attachments/626114024655945740/626550316682444810/1d044b0733ac5b6b53e94837e5043602.png)
+
+
+
