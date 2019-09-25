@@ -86,6 +86,8 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 
 3. Next we're going to add a new function to move our Player (the sphere). 
 
+```
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -106,5 +108,7 @@ public int speed = 0;
       transform.position = position;
       }
   }
+  
+  ```
 
 
