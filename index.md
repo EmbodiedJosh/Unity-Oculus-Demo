@@ -23,8 +23,7 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 
 1. Launch Unity Hub, and create "new". Once there, select 3D, and give it a name. We'll call it VR Game. 
 
-[![](https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)]
-(https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png](https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)
 
 2. First things first, we need to create a floor. Go to **Game Objects > 3D Object > Plane** 
 
