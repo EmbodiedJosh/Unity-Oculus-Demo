@@ -175,9 +175,15 @@ public int speed = 0;
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626554339196010508/3d73f0e287eea45f4438ab902d31f897.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554339196010508/3d73f0e287eea45f4438ab902d31f897.png)
 
-* Rotate on the Y Axis (green) until they line up with the last two sides of the plane. 
+* **Rotate on the Y Axis** (green) until they line up with the last two sides of the plane. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626554337228881930/eb0613c67e84847394c187b934e412ce.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554337228881930/eb0613c67e84847394c187b934e412ce.png)
+
+8. **Rotate the View Port** using Alt + Left Mouse Click to get a better view and look at your enclosed Play Space! 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626554337228881930/eb0613c67e84847394c187b934e412ce.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554337228881930/eb0613c67e84847394c187b934e412ce.png)
 
 
+9. But just because you can fly around in 3D space and see your enclosed Play Space, doesn't mean the Game Camera can. **Left Mouse CLick on the camera icon** and use Free Transform and the preview window to get a better playing angle. 
 
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626556242416107551/12.png)](https://cdn.discordapp.com/attachments/626114024655945740/626556242416107551/12.png)
