@@ -78,7 +78,7 @@ Move the ball up to hover above the plane by **dragging up on the green arrow.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626542214381699082/10.png)](https://cdn.discordapp.com/attachments/626114024655945740/626542214381699082/10.png)
 
- * You should see this screen, **with this starting code** (if yours isn't black, that's okay: mine only appears that way because I selected the dark theme for Visual Studio).
+ * You should see this screen, **with this starting code**.
  
  ```
  using System.Collections;
