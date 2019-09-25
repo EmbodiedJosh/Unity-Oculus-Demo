@@ -80,14 +80,27 @@ Move the ball up to hover above the plane by dragging up on the green arrow.
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626542214381699082/10.png)](https://cdn.discordapp.com/attachments/626114024655945740/626542214381699082/10.png)
 
- * You should see this screen (if yours isn't black, that's okay: mine only appears that way because I selected the dark theme for Visual Studio)
+ * You should see this screen, with this starting code (if yours isn't black, that's okay: mine only appears that way because I selected the dark theme for Visual Studio).
+ 
+ ```
+ using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+public class temp : MonoBehaviour {
+// Use this for initialization
+    void Start () {
+    }
+// Update is called once per frame
+    void Update () {
+    }
+}
+```
  
  [![](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)
 
 3. Next we're going to add a new function to move our Player (the sphere). 
 
 ```
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
