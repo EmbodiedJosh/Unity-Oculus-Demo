@@ -127,4 +127,15 @@ public int speed = 0;
 * Your final code in Visual Studio should look like this: 
 
  [![](https://cdn.discordapp.com/attachments/626114024655945740/626545019020378113/182806c6f89e63c63947e05b89c23a9e.png)](https://cdn.discordapp.com/attachments/626114024655945740/626545019020378113/182806c6f89e63c63947e05b89c23a9e.png)
+ 
+ 
+### Step 4: Set Speed and Update Play Area 
+
+1. Congratulations! **Save and exit out of Visual Studio and hit "play" in Unity**, and discover that you're still unable to move using W-A-S-D. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)](https://cdn.discordapp.com/attachments/626114024655945740/626497830118359050/7.png)
+
+2. Click on your "sphere" in the Hierarchy and notice you now have a "speed" section under the Inspector tab. It is currently set to "0". That's why you're not moving. Set that a reasonable number (3), hit play again, and finally be able to move your Player using W-A-S-D. 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626547334150488087/11.png)](https://cdn.discordapp.com/attachments/626114024655945740/626547334150488087/11.png)
 
