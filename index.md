@@ -10,8 +10,6 @@ The above video tutorial and subsequent text was created in approximately 6 hour
 * The documentation I used to create it
 * The problems I encountered (and overcame) along the way. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Step 1
 
 I began by following the instructions listed 
