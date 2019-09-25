@@ -98,7 +98,7 @@ public class temp : MonoBehaviour {
  
  [![](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)](https://cdn.discordapp.com/attachments/626114024655945740/626543047420936209/76d69e3ea4133dff5ec8fcef1f04b13a.png)
 
-3. Next we're going to add a new function to move our Player (the sphere). 
+3. Next we're going to add a new function to move our Player (the sphere). Copy and paste this in its entirety into Visual Studio (beginner) or enter in the function manually (advanced). 
 
 ```
 using System.Collections;
@@ -124,4 +124,7 @@ public int speed = 0;
   
   ```
 
+* Your final code in Visual Studio should look like this: 
+
+ [![](https://cdn.discordapp.com/attachments/626114024655945740/626545019020378113/182806c6f89e63c63947e05b89c23a9e.png)](https://cdn.discordapp.com/attachments/626114024655945740/626545019020378113/182806c6f89e63c63947e05b89c23a9e.png)
 
