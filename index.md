@@ -139,7 +139,7 @@ public int speed = 0;
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626547334150488087/11.png)](https://cdn.discordapp.com/attachments/626114024655945740/626547334150488087/11.png)
 
-3. As you may have noticed, you now have the power to run your Player off the edge of the plane. To fix this, we're going to add borders along the edge so we don't fall off. Go to **Game Object > 3D Object > Cube** 
+3. As you may have noticed, you now have the power to run your Player off the edge of the plane and outside of your Play Area. To fix this, we're going to add borders along the edge so we don't fall off. Go to **Game Object > 3D Object > Cube** 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626549443092676619/114f1bf426ae524689935170e35ca113.png)](https://cdn.discordapp.com/attachments/626114024655945740/626549443092676619/114f1bf426ae524689935170e35ca113.png)
 
@@ -179,7 +179,7 @@ public int speed = 0;
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626554337228881930/eb0613c67e84847394c187b934e412ce.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554337228881930/eb0613c67e84847394c187b934e412ce.png)
 
-8. **Rotate the View Port** using Alt + Left Mouse Click to get a better view and look at your enclosed Play Space! 
+8. **Rotate the View Port** using Alt + Left Mouse Click to get a better view and look at your enclosed Play Area! 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626554796899303467/384b0c40daac7157623aa8ee1efc1978.png)](https://cdn.discordapp.com/attachments/626114024655945740/626554796899303467/384b0c40daac7157623aa8ee1efc1978.png)
 
@@ -187,3 +187,14 @@ public int speed = 0;
 9. But just because you can fly around in 3D space and see your enclosed Play Space, doesn't mean the Game Camera can. **Left Mouse CLick on the camera icon** and use Free Transform and the preview window to get a better playing angle. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626556242416107551/12.png)](https://cdn.discordapp.com/attachments/626114024655945740/626556242416107551/12.png)
+
+
+### Step 5: Modify your project for VR 
+
+1. Now that we can play our game regularly, it's time to add in VR capability. Go to **Edit > Project Settings > Player > XR Settings** to see this screen and check the box that says **"Virtual Reality Supported"** 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626557848553390081/13.png)](https://cdn.discordapp.com/attachments/626114024655945740/626557848553390081/13.png)
+
+2. Once clicked, it'll take some time to load, but then you will see this screen: 
+
+[![](https://cdn.discordapp.com/attachments/626114024655945740/626558182646611970/d8bfd0c167b6499651c21e0c7f1ef769.png)](https://cdn.discordapp.com/attachments/626114024655945740/626558182646611970/d8bfd0c167b6499651c21e0c7f1ef769.png)
