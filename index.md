@@ -25,6 +25,6 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 
 ![](https://cdn.discordapp.com/attachments/626114024655945740/626486430935416894/df98eb42f64973a31a4644de137c8821.png)
 
-1. fsf
-1. fasdf
-1. sfasf
+2. First things first, we need to create a floor. Go to **3D Object > Plane**
+
+![](https://cdn.discordapp.com/attachments/626114024655945740/626488372906688516/fa05fe00e824d2e3f5cd86845238c2cd.png)
