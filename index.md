@@ -2,9 +2,13 @@
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626464011193417730/oculsu-rift-unity-pro-1021x580.jpg)](https://youtu.be/tPHnLJ__Cd4)
 
+
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/tPHnLJ__Cd4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+
 
 This following is my interpreation of recreating **[existing Oculus VR Documentation](https://developer.oculus.com/documentation/unity/unity-tutorial/?locale=en_US)**. Clicking the image above will direct you to a video tutorial based off the and subsequent text was created for the purpose of consolidating and converting multiple Unity+Oculus development documentation pages into a video tutorial with only one subsequent page of documentation. 
 
