@@ -1,5 +1,3 @@
-## "Build Your First VR App" Video Tutorial
-
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626464011193417730/oculsu-rift-unity-pro-1021x580.jpg)](https://youtu.be/tPHnLJ__Cd4)
 
 The following is my interpreation of recreating **[existing Oculus VR Documentation](https://developer.oculus.com/documentation/unity/unity-tutorial/?locale=en_US)**. I also created a **[video tutorial version](https://www.youtube.com/watch?v=tPHnLJ__Cd4&feature=youtu.be)** based off the original. My aim was to simplify and consolidate multiple pages of existing documentation into one. 
