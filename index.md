@@ -2,7 +2,7 @@
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626464011193417730/oculsu-rift-unity-pro-1021x580.jpg)](https://youtu.be/tPHnLJ__Cd4)
 
-# This following is my interpreation of recreating **[existing Oculus VR Documentation](https://developer.oculus.com/documentation/unity/unity-tutorial/?locale=en_US)**. I also created a **[video tutorial version](https://www.youtube.com/watch?v=tPHnLJ__Cd4&feature=youtu.be)** based off the original. The goal of both the video and the following documentation was to consolidate multiple pages and links of documentation into one.
+### This following is my interpreation of recreating **[existing Oculus VR Documentation](https://developer.oculus.com/documentation/unity/unity-tutorial/?locale=en_US)**. I also created a **[video tutorial version](https://www.youtube.com/watch?v=tPHnLJ__Cd4&feature=youtu.be)** based off the original. The goal of both the video and the following documentation is to consolidate multiple pages and links of documentation into one.
 
 ### Build Your Simple Application 
 
