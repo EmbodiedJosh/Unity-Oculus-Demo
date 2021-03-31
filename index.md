@@ -33,7 +33,7 @@ Before you can make a game for Rift in Unity, you need to ensure your Rift is se
 * **E = Rotate Tool** 
 * **R = Scale Tool** 
 
-Move the ball up to hover above the plane by **dragging up on the green arrow. 
+Move the ball up to hover above the plane by dragging up on the green arrow. 
 
 [![](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)](https://cdn.discordapp.com/attachments/626114024655945740/626492729970524190/3.png)
 
